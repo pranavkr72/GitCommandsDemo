@@ -1,0 +1,52 @@
+Difference between reset and revert commands.
+Ans:
+Difference between git pull vs git fetch
+Diff. git bash and git merge
+What is cherry pick?
+How to create new branch?
+How to delete a branch?
+How to resolve merge conflict?
+What is git area?
+Diff b/w git and svn.
+What are the different stages in stash?
+How undo changes in local repos?
+Is it possible to push code from one local repo to another local repo?
+What is branching strategy?
+What is prod lifecycle and release lifecycle?
+Benefits of git.
+Can we keep remote repo in svn?
+Is master in mandatory in git repo?
+There are two repos in git and one in git. can we create a build?
+How to merge using git?
+Can we override dev branch to master branch?
+How to remote checkins in  git?
+What is Rebasing in Git?
+What does git clone do?
+What does the command git config do?
+Can you explain head in terms of git and also tell the number of heads that can be present in a repository?
+What is the functionality of git ls-tree?
+What does git status command do?
+. Define “Index”.
+What has to be run to squash multiple commits (last N) into a single commit?
+What does git add command do?
+How would you recover a branch that has already pushed changes in the central repository but has been accidentally deleted from every team member’s local machines?
+Can you tell something about git reflog?
+What are the functionalities of git reset --mixed and git merge --abort?
+How do you find a commit which broke something after a merge operation?
+What are the factors involved in considering which command to choose among: git merge and git rebase?
+Explain steps involved in removing a file from git index without removing from the local file system?
+How to revert a bad commit which is already pushed?
+What is best advisable step in cases of broken commit: Create an additional commit OR amend an existing commit?
+What command helps us know the list of branches merged to master?
+What is the difference between git stash apply vs git stash pop command?
+What does git annotate command do?
+What is a detached HEAD and what causes this and how to avoid this?
+Explain the levels in git config and how can you configure values using them?
+What has to be run to squash multiple commits (last N) into a single commit?
+What is a .git Directory?
+What happens if the .git directory gets deleted?
+What is the use of git instaweb?
+What is the use of Staging area or Indexing in Git?
+What is the Git Stash drop?
+What are Hooks in Git?
+
